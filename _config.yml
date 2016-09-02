@@ -1,29 +1,14 @@
-name: Portfoliotest
-favicon: null
 layout_spectrum: 0.002998066833242774
 typography_spectrum: 0.1723752513062209
-title: Tilo Krueger
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
+  brandStrength: 0.7107899216935039
+  lightness: 0.49938453477807343
+  saturation: 0.9157990901730955
+  rhythmicContrast: 0.7723650096450001
   brandColors:
-    - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-  brandStrength: 1
-  lightness: 0.5
-  saturation: 1
-  rhythmicContrast: 1
-purpose: []
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: Portfoliotest
